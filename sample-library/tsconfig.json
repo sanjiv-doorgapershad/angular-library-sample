@@ -24,6 +24,12 @@
       ],
       "sample1-lib/*": [
         "dist/sample1-lib/*"
+      ],
+      "layout-lib": [
+        "dist/layout-lib"
+      ],
+      "layout-lib/*": [
+        "dist/layout-lib/*"
       ]
     }
   }
